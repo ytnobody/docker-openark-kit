@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:wheezy
 MAINTAINER ytnobody <ytnobody@gmail.com>
 
 RUN mkdir /opt/oak -p
